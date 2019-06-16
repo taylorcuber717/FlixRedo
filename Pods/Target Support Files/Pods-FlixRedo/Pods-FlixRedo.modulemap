@@ -1,0 +1,6 @@
+framework module Pods_FlixRedo {
+  umbrella header "Pods-FlixRedo-umbrella.h"
+
+  export *
+  module * { export * }
+}
